@@ -1,0 +1,24 @@
+[
+    {
+        "nama"  : "Alfius Stevanus Ginting",
+        "umur"  : 20,
+        "nrp"   : "162021018",
+        "lulus" : true,
+        "hobby" : [
+            "makan",
+            "game",
+            "musik"
+        ] 
+    },
+    {
+        "nama"  : "Alfius Stevanus Ginting",
+        "umur"  : 20,
+        "nrp"   : "162021018",
+        "lulus" : true,
+        "hobby" : [
+            "makan",
+            "game",
+            "musik"
+        ] 
+    }
+]
